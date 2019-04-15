@@ -2,7 +2,7 @@ import requests
 
 S = requests.Session()
 
- apiURL = "https://en.wikipedia.org/w/api.php"
+ actionURL = "https://en.wikipedia.org/w/api.php"
 
 TITLE = 'Wikimedia Foundation'
 
